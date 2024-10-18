@@ -1,0 +1,2 @@
+# Verification-of-AHB3-Lite-Protocol-using-SV-based-Layered-Testbench
+This repository showcases my work on AHB3 Lite verification using SystemVerilog, featuring a layered testbench design. It includes various test cases for read and write operations, ensuring data integrity and performance. The project serves as a comprehensive resource for understanding AHB protocol verification and provides practical example.
