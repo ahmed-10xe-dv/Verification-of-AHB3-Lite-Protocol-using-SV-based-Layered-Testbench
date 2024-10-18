@@ -25,7 +25,7 @@ This repository contains a comprehensive implementation of AHB3 Lite verificatio
 ## Project Structure
 
 The directory structure of the AHB3 Lite Verification project is as follows:
-
+```markdown
 AHB3_Lite_Verification/
 ├── design/
 │   ├── ahb3lite_pkg.sv
@@ -63,6 +63,7 @@ AHB3_Lite_Verification/
 └── verification_plan/
     ├── Ahmed_Raza_FinalProject.pdf
     └── Testplan_Ahmed_Raza - Testplan.pdf
+```
 
 
 ## Getting Started
